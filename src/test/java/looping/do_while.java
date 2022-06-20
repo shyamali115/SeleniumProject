@@ -15,6 +15,9 @@ public class do_while {
 		
 		System.out.println("-----------------------------");
 		
+		System.out.println("test test");
+		
+		
 //		for(a=10;a<=20;a++)
 //		{
 //			System.out.println(a);
